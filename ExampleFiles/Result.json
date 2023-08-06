@@ -1,0 +1,1654 @@
+[
+  {
+    "Name": "ПС 6 кВ № 12 (КЧХК)",
+    "VoltageLevels": []
+  },
+  {
+    "Name": "ПС 10 кВ № 1 (КЧХК)",
+    "VoltageLevels": []
+  },
+  {
+    "Name": "ПС 110 кВ Кирскабель",
+    "VoltageLevels": []
+  },
+  {
+    "Name": "Кировская ТЭЦ-1",
+    "VoltageLevels": [
+      {
+        "Name": "6",
+        "SynchronousMachines": [
+          {
+            "Name": "ТГ-3"
+          },
+          {
+            "Name": "ТГ-2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Кировская ТЭЦ-4",
+    "VoltageLevels": [
+      {
+        "Name": "10",
+        "SynchronousMachines": [
+          {
+            "Name": "ТГ-2"
+          },
+          {
+            "Name": "ТГ-6"
+          }
+        ]
+      },
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "6",
+        "SynchronousMachines": [
+          {
+            "Name": "ТГ-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Кировская ТЭЦ-3",
+    "VoltageLevels": [
+      {
+        "Name": "35",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "15.75",
+        "SynchronousMachines": [
+          {
+            "Name": "ТГ ГТ-1"
+          }
+        ]
+      },
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "10",
+        "SynchronousMachines": [
+          {
+            "Name": "ТГ ПТ-1"
+          }
+        ]
+      },
+      {
+        "Name": "6",
+        "SynchronousMachines": [
+          {
+            "Name": "ТГ-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Кировская ТЭЦ-5",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "10",
+        "SynchronousMachines": [
+          {
+            "Name": "1ТГ"
+          }
+        ]
+      },
+      {
+        "Name": "15.75",
+        "SynchronousMachines": [
+          {
+            "Name": "ТГ-3"
+          },
+          {
+            "Name": "ТГ-2"
+          }
+        ]
+      },
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 500 кВ Вятка",
+    "VoltageLevels": [
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "500",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 220 кВ Омутнинск",
+    "VoltageLevels": [
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "10",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 220 кВ Зуевка",
+    "VoltageLevels": [
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 220 кВ Бумкомбинат",
+    "VoltageLevels": [
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 220 кВ Вятские Поляны",
+    "VoltageLevels": [
+      {
+        "Name": "10",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 220 кВ Фалёнки(тяговая)",
+    "VoltageLevels": [
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 220 кВ Чепецк",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "10",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 220 кВ Лебяжье",
+    "VoltageLevels": [
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "10",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 220 кВ Марадыково",
+    "VoltageLevels": [
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "РП 220 кВ Фалёнки",
+    "VoltageLevels": [
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 220 кВ Мураши",
+    "VoltageLevels": [
+      {
+        "Name": "10",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 220 кВ Рехино",
+    "VoltageLevels": [
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 220 кВ Киров",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 220 кВ Котельнич",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "220",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "10",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ГПП2 110 кВ",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ГПП1 110 кВ",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Песковка",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Свеча",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Луза",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Мураши",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Шурма",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Юбилейная",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Юрьево",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Юрья",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ РМЗ",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Рожки",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Красногорская",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Перекоп",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Арбаж",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Ацвеж",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Бахта",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Беляево",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Богородск",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Бытприбор",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Вахруши",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Верхошижемье",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Ветошкино",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Гарь",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Гостовская",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ ГПП-2 (АО «Лепсе»)",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Даровское",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Иванцево",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Иготино",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Ильинская",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Коминтерн",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Красный Курсант",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Красный Якорь",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Кремешки",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Кристалл",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Круглыжи",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Кузнецы",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Кумены",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Кырчаны",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Луговая",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Лыжная",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Макарье",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Малмыж",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ГПП 110 кВ Механическая",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Нижнеивкино",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Нолинск",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Опарино",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Опытное Поле",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Отворское",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Павлово",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Пасегово",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Первомайск",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Первомайская",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Петровское",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Пижанка",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Пинюг",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Полом",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Матвинур",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Прогресс",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Просница",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Уни",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Сельмаш",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Слободская",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Слудка (КЭ)",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Советск",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Талица (КЭ)",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Тужа",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Уржум",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Утиная",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Филиппово",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Шабалино",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Швариха",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Шевели",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Шкляевская",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Лянгасово",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Северная (КЭ)",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Приверх",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Городская",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Искра",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Краснооктябрьская",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Шараница",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Шестаки",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Альмеж",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Афанасьево",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Безбожник",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Дубровка",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Дымное",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Западная",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Коммунальная",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Октябрьская",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Муша",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Прудки",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Кстинино",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ УХО",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Яранск",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ МСЗ",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Сосновка",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Тяговая",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Маяк",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Пиксур",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Авитек",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Бисерово",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Заводская",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Залазна",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Черная Холуница",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Заречная",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ КБ Север",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ КДВП",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Маяк",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ ОХЗ",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ ОЦМ",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Подрезчиха",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Птицефабрика",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Рудничная",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Скопино",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Чепца",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Чижи",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Тюмень",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Бурмакино",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Азот 1",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Азот 2",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ ГПП (ГалоПолимер Кирово-Чепецк)",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Демьяново",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Кирс",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Лебяжье",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Садовая (КЭ)",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Санчурск",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Селезениха",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ ССК",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Суна",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Лазарево 2",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Восточная",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Красная Поляна",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Восточная",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ ГПП-3",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Кикнур",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Митюши",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Оричи",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Савали",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Белая Холуница",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Лазарево 1",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ ОМЗ",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "РУ 110/6 кВ Кировской ТЭЦ-1",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      },
+      {
+        "Name": "6",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Фанерная",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 110 кВ Речная",
+    "VoltageLevels": [
+      {
+        "Name": "110",
+        "SynchronousMachines": []
+      }
+    ]
+  },
+  {
+    "Name": "ПС 35 кВ Гирсово",
+    "VoltageLevels": []
+  },
+  {
+    "Name": "ПС 35 кВ ССК",
+    "VoltageLevels": []
+  },
+  {
+    "Name": "ПС 35 кВ Чистые Пруды",
+    "VoltageLevels": []
+  },
+  {
+    "Name": "ПС 35 кВ МСЗ",
+    "VoltageLevels": []
+  },
+  {
+    "Name": "ПС 35 кВ 22",
+    "VoltageLevels": []
+  },
+  {
+    "Name": "ПС 35 кВ Юго-Западная",
+    "VoltageLevels": []
+  },
+  {
+    "Name": "ПС 35 кВ Филейка",
+    "VoltageLevels": []
+  },
+  {
+    "Name": "ПС 35 кВ Береговая",
+    "VoltageLevels": []
+  }
+]
